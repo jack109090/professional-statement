@@ -1,7 +1,7 @@
 # professional-statement
 
 Professional Statement
-# Keming Chen
+# Keming 
 With 8 years of experience in motor control, I have specialized in developing control algorithms and user interface programs, primarily for military simulators.
 My role involved extensive programming in C++ and collaborating with various professional teams to address and resolve complex issues. Given the importance of 
 cybersecurity in protecting our military user and the rapid advancements in information technology, I am eager to transition into the field of cybersecurity.
